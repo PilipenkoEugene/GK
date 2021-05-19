@@ -1,0 +1,50 @@
+C:\Users\aalex\Desktop\LAB__15\LAB__15\bin\Debug\LAB__15.exe.config
+C:\Users\aalex\Desktop\LAB__15\LAB__15\bin\Debug\LAB__15.exe
+C:\Users\aalex\Desktop\LAB__15\LAB__15\bin\Debug\LAB__15.pdb
+C:\Users\aalex\Desktop\LAB__15\LAB__15\obj\Debug\Lab15.csprojAssemblyReference.cache
+C:\Users\aalex\Desktop\LAB__15\LAB__15\obj\Debug\Lab15.Form1.resources
+C:\Users\aalex\Desktop\LAB__15\LAB__15\obj\Debug\LAB__15.Properties.Resources.resources
+C:\Users\aalex\Desktop\LAB__15\LAB__15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Users\aalex\Desktop\LAB__15\LAB__15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Users\aalex\Desktop\LAB__15\LAB__15\obj\Debug\LAB__15.exe
+C:\Users\aalex\Desktop\LAB__15\LAB__15\obj\Debug\LAB__15.pdb
+P:\4 семестр\Технологии программирования\Lab15\LAB__15\bin\Debug\LAB__15.exe.config
+P:\4 семестр\Технологии программирования\Lab15\LAB__15\bin\Debug\LAB__15.exe
+P:\4 семестр\Технологии программирования\Lab15\LAB__15\bin\Debug\LAB__15.pdb
+P:\4 семестр\Технологии программирования\Lab15\LAB__15\obj\Debug\Lab15.csprojAssemblyReference.cache
+P:\4 семестр\Технологии программирования\Lab15\LAB__15\obj\Debug\Lab15.Form1.resources
+P:\4 семестр\Технологии программирования\Lab15\LAB__15\obj\Debug\LAB__15.Properties.Resources.resources
+P:\4 семестр\Технологии программирования\Lab15\LAB__15\obj\Debug\Lab15.csproj.GenerateResource.cache
+P:\4 семестр\Технологии программирования\Lab15\LAB__15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+P:\4 семестр\Технологии программирования\Lab15\LAB__15\obj\Debug\LAB__15.exe
+P:\4 семестр\Технологии программирования\Lab15\LAB__15\obj\Debug\LAB__15.pdb
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR15\LAB__15\bin\Debug\LAB__15.exe.config
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR15\LAB__15\bin\Debug\LAB__15.exe
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR15\LAB__15\bin\Debug\LAB__15.pdb
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR15\LAB__15\obj\Debug\Lab15.csprojAssemblyReference.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR15\LAB__15\obj\Debug\Lab15.Form1.resources
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR15\LAB__15\obj\Debug\LAB__15.Properties.Resources.resources
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR15\LAB__15\obj\Debug\Lab15.csproj.GenerateResource.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR15\LAB__15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR15\LAB__15\obj\Debug\LAB__15.exe
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR15\LAB__15\obj\Debug\LAB__15.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR15\LAB__15\bin\Debug\LAB__15.exe.config
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR15\LAB__15\bin\Debug\LAB__15.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR15\LAB__15\bin\Debug\LAB__15.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR15\LAB__15\obj\Debug\Lab15.csprojAssemblyReference.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR15\LAB__15\obj\Debug\Lab15.Form1.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR15\LAB__15\obj\Debug\LAB__15.Properties.Resources.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR15\LAB__15\obj\Debug\Lab15.csproj.GenerateResource.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR15\LAB__15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR15\LAB__15\obj\Debug\LAB__15.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR15\LAB__15\obj\Debug\LAB__15.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR15\LAB__15\bin\Debug\LAB__15.exe.config
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR15\LAB__15\bin\Debug\LAB__15.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR15\LAB__15\bin\Debug\LAB__15.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR15\LAB__15\obj\Debug\Lab15.csprojAssemblyReference.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR15\LAB__15\obj\Debug\Lab15.Form1.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR15\LAB__15\obj\Debug\LAB__15.Properties.Resources.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR15\LAB__15\obj\Debug\Lab15.csproj.GenerateResource.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR15\LAB__15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR15\LAB__15\obj\Debug\LAB__15.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR15\LAB__15\obj\Debug\LAB__15.pdb
