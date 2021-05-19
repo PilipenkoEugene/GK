@@ -1,0 +1,20 @@
+P:\4 семестр\Технологии программирования\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+P:\4 семестр\Технологии программирования\Lab13\Lab13\obj\Debug\Lab13.Form1.resources
+P:\4 семестр\Технологии программирования\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+P:\4 семестр\Технологии программирования\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+P:\4 семестр\Технологии программирования\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+P:\4 семестр\Технологии программирования\Lab13\Lab13\bin\Debug\Lab13.exe.config
+P:\4 семестр\Технологии программирования\Lab13\Lab13\bin\Debug\Lab13.exe
+P:\4 семестр\Технологии программирования\Lab13\Lab13\bin\Debug\Lab13.pdb
+P:\4 семестр\Технологии программирования\Lab13\Lab13\obj\Debug\Lab13.exe
+P:\4 семестр\Технологии программирования\Lab13\Lab13\obj\Debug\Lab13.pdb
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\bin\Debug\Lab13.exe.config
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\bin\Debug\Lab13.exe
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\bin\Debug\Lab13.pdb
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\Lab13.Form1.resources
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\Lab13.exe
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\Lab13.pdb

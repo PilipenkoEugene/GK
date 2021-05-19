@@ -1,0 +1,30 @@
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.csprojAssemblyReference.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.Form1.resources
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.Properties.Resources.resources
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.csproj.GenerateResource.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.csproj.CoreCompileInputs.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\bin\Debug\LR13.exe.config
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\bin\Debug\LR13.exe
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\bin\Debug\LR13.pdb
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.exe
+F:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.pdb
+E:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\bin\Debug\LR13.exe.config
+E:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\bin\Debug\LR13.exe
+E:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\bin\Debug\LR13.pdb
+E:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.csprojAssemblyReference.cache
+E:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.Form1.resources
+E:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.Properties.Resources.resources
+E:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.csproj.GenerateResource.cache
+E:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.csproj.CoreCompileInputs.cache
+E:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.exe
+E:\флешка\ИМиИТ\2 курс\ТПрогр\Lab13\Lab13\obj\Debug\LR13.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR13\Lab13\bin\Debug\LR13.exe.config
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR13\Lab13\bin\Debug\LR13.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR13\Lab13\bin\Debug\LR13.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR13\Lab13\obj\Debug\LR13.csprojAssemblyReference.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR13\Lab13\obj\Debug\LR13.Form1.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR13\Lab13\obj\Debug\LR13.Properties.Resources.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR13\Lab13\obj\Debug\LR13.csproj.GenerateResource.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR13\Lab13\obj\Debug\LR13.csproj.CoreCompileInputs.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR13\Lab13\obj\Debug\LR13.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR13\Lab13\obj\Debug\LR13.pdb
