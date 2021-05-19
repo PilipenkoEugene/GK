@@ -1,0 +1,40 @@
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\bin\Debug\LR12.exe.config
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\bin\Debug\LR12.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\bin\Debug\LR12.pdb
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.csprojAssemblyReference.cache
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.Form1.resources
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.Properties.Resources.resources
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.csproj.GenerateResource.cache
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.pdb
+E:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\bin\Debug\LR12.exe.config
+E:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\bin\Debug\LR12.exe
+E:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\bin\Debug\LR12.pdb
+E:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.csprojAssemblyReference.cache
+E:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.Form1.resources
+E:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.Properties.Resources.resources
+E:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.csproj.GenerateResource.cache
+E:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+E:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.exe
+E:\флешка\ИМиИТ\2 курс\ТПрогр\LR12\obj\Debug\LR12.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR12\bin\Debug\LR12.exe.config
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR12\bin\Debug\LR12.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR12\bin\Debug\LR12.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR12\obj\Debug\LR12.csprojAssemblyReference.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR12\obj\Debug\LR12.Form1.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR12\obj\Debug\LR12.Properties.Resources.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR12\obj\Debug\LR12.csproj.GenerateResource.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR12\obj\Debug\LR12.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR12\obj\Debug\LR12.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR12\bin\Debug\LR12.exe.config
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR12\bin\Debug\LR12.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR12\bin\Debug\LR12.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR12\obj\Debug\LR12.csprojAssemblyReference.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR12\obj\Debug\LR12.Form1.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR12\obj\Debug\LR12.Properties.Resources.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR12\obj\Debug\LR12.csproj.GenerateResource.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR12\obj\Debug\LR12.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования - копия\LR12\obj\Debug\LR12.pdb
